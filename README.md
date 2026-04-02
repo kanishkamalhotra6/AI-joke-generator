@@ -1,10 +1,6 @@
 README.md
 
 ---
-
-# README.md
-
-```markdown
 # AI Joke Generator 
 
 A simple Python CLI application that generates jokes using the Google Gemini AI API.  
