@@ -196,5 +196,6 @@ Possible improvements to this project include:
 ## Author
 
 Kanishka
+
 Second-year Electronics and Communication Engineering student exploring AI, Machine Learning, and Python development.
 
